@@ -3,5 +3,3 @@
 
 ## Introduction
 This is a code repository for the corresponding video tutorial.
-
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
